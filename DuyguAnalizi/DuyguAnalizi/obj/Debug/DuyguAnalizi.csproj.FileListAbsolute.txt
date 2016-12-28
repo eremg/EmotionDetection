@@ -1,0 +1,26 @@
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.exe.config
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.csprojResolveAssemblyReference.cache
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\CSharpFilters.Convolution.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form1.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form2.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form_preview.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\CSharpFilters.Parameter.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Properties.Resources.resources
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.csproj.GenerateResource.Cache
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.exe
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.pdb
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.exe
+c:\users\rabia\documents\visual studio 2015\Projects\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.pdb
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.exe.config
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.exe
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.pdb
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.exe
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\bin\Debug\DuyguAnalizi.pdb
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.csprojResolveAssemblyReference.cache
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\CSharpFilters.Convolution.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form1.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form2.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Form_preview.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\CSharpFilters.Parameter.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.Properties.Resources.resources
+C:\Users\erem-\Desktop\DuyguAnalizi\DuyguAnalizi\obj\Debug\DuyguAnalizi.csproj.GenerateResource.Cache
